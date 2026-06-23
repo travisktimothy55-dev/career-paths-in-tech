@@ -54,3 +54,67 @@ User Experience (UX) Designers focus on the interaction that humans have with ev
 1. Figma (For wireframing, UI design, and interactive prototyping)
 2. Adobe XD (For vector-based user experience design)
 3. Miro (For digital brainstorming, user journey mapping, and research analysis)
+# DevOps Engineer-karemeri
+
+## What is a DevOps Engineer?
+
+A **DevOps Engineer** helps developers and operations teams work together to build, test, deploy, and maintain software efficiently.
+
+### Key Responsibilities
+
+* Automate software deployments
+* Manage cloud infrastructure
+* Monitor applications and servers
+* Configure CI/CD pipelines
+* Improve system reliability and security
+
+## Skills to Learn
+
+| Skill Area             | Tools              |
+| ---------------------- | ------------------ |
+| Linux                  | Ubuntu, Bash       |
+| Version Control        | Git, GitHub        |
+| Scripting              | Python, Bash       |
+| Containers             | Docker             |
+| Orchestration          | Kubernetes         |
+| Cloud Computing        | AWS, Azure, GCP    |
+| Infrastructure as Code | Terraform, Ansible |
+
+## Learning Roadmap
+
+1. Learn Linux fundamentals
+2. Learn Git and GitHub
+3. Learn Networking Basics
+4. Learn Bash Scripting
+5. Learn Python
+6. Learn Docker
+7. Learn CI/CD
+8. Learn Cloud Platforms
+9. Learn Kubernetes
+10. Learn Terraform
+
+## Useful Resources
+
+* Git Documentation: https://git-scm.com/doc
+* Docker Documentation: https://docs.docker.com
+* Kubernetes Documentation: https://kubernetes.io/docs
+* AWS Skill Builder: https://skillbuilder.aws
+
+## Task List
+
+* [x] Install Ubuntu
+* [x] Install Git
+* [ ] Learn Git commands
+* [ ] Learn Docker
+* [ ] Learn Kubernetes
+* [ ] Earn a Cloud Certification
+
+## Example Command
+
+```bash
+git clone https://github.com/example/repository.git
+```
+
+## Quote
+
+> "Automation is good, so long as you know exactly where to put the machine."
