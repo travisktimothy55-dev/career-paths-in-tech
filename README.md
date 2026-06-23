@@ -8,7 +8,7 @@ A collaborative guide by Nathan Nyakundi,Angel Kuraru,Kayla Wambui,Travis,Mary W
 ## Introduction
 The tech industry has many different career paths.Each path focuses on different skills such as coding,data analysis,design or system security.This guide explains the main options to help students choose a direction.
 ---
-## Networking & IT support
+## Networking & IT support-Nathan Nyakundi
 Networking and IT support is a key area in technology that focuses on ensuring that computer systems ,devises and networks work properly and efficiently.
 ### Skills needed
 - Understanding of computer hardware and software
