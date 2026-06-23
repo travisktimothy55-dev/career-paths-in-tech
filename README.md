@@ -1,4 +1,4 @@
-## UX Designer
+## UX Designer - Angel
 
 User Experience (UX) Designers focus on the interaction that humans have with everyday products and websites. Their goal is to make these products *usable, enjoyable, and accessible* for everyone.
 
