@@ -17,7 +17,7 @@ Networking and IT support is a key area in technology that focuses on ensuring t
 - Communication skills
 - Knowledge of operating systems like Windows and Linux
 ### Career opportunities
-- IT Support Specialist
+- IT Support Specialist.
 - Network Technician
 - Systems administrator
 - Help Desk Technician
