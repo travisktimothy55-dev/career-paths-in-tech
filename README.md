@@ -21,6 +21,10 @@ Networking and IT support is a key area in technology that focuses on ensuring t
 - Network Technician
 - Systems administrator
 - Help Desk Technician
+### Learning resources
+Microsoft Learn – IT Support Fundamentals: https://learn.microsoft.com/training/
+Cisco Networking Academy: https://www.netacad.com/
+CompTIA IT Fundamentals: https://www.comptia.org/
 ## AI Engineering-Kayla
 
 AI Engineering focuses on the development of *intelligent technologies and automated systems*.
@@ -41,6 +45,10 @@ It creates applications such as:
 - Python Programming
 - Problem-Solving
 - Mathematics and Statistics
+### Learning resources
+Coursera – AI Courses: https://www.coursera.org/browse/data-science/machine-learning
+Kaggle Learn: https://www.kaggle.com/learn
+TensorFlow Tutorials: https://www.tensorflow.org/tutorials
  ## UX Designer - Angel
 
 User Experience (UX) Designers focus on the interaction that humans have with everyday products and websites. Their goal is to make these products usable, enjoyable, and accessible for everyone.
@@ -54,6 +62,10 @@ User Experience (UX) Designers focus on the interaction that humans have with ev
 1. Figma (For wireframing, UI design, and interactive prototyping)
 2. Adobe XD (For vector-based user experience design)
 3. Miro (For digital brainstorming, user journey mapping, and research analysis)
+### Learning resources
+Figma Learn: https://help.figma.com/
+Interaction Design Foundation: https://www.interaction-design.org/
+Google UX Design Certificate: https://grow.google/certificates/ux-design/
 # DevOps Engineer-karemeri
 
 ## What is a DevOps Engineer?
