@@ -118,3 +118,6 @@ git clone https://github.com/example/repository.git
 ## Quote
 
 > "Automation is good, so long as you know exactly where to put the machine."
+## UX Design
+* [Nielsen Norman Group](https://www.nngroup.com/) - UX research and articles.
+* [Figma Tutorials](https://www.figma.com/resource-library/design-basics/) - Learn UI/UX design tools.
