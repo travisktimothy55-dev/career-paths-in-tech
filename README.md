@@ -121,3 +121,4 @@ git clone https://github.com/example/repository.git
 ## UX Design
 * [Nielsen Norman Group](https://www.nngroup.com/) - UX research and articles.
 * [Figma Tutorials](https://www.figma.com/resource-library/design-basics/) - Learn UI/UX design tools.
+* [UX Planet](https://uxplanet.org/) - Community platform for everything related to user experience.
